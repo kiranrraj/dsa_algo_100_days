@@ -17,3 +17,9 @@ def two_sum_v2(arr: List[int], target: int) -> Optional[Tuple[int, int]]:
             return (seen[complement], i)
         seen[x] = i
     return None
+
+
+# Calculate the number needed to reach the target.
+# Check if that needed number is already in seen
+# If yes → return the stored index and the current index.
+# If not → store the current number along with its index.

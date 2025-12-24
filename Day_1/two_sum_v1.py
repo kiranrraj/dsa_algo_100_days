@@ -18,3 +18,5 @@ def two_sum_v1(arr, target):
 
 
 print(two_sum_v1([1, 2, 3, 4, 5], 8))
+
+## Calculate what number is needed to reach the target.
