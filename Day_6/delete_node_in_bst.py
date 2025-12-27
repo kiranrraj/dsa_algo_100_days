@@ -1,5 +1,5 @@
 # Problem: 20
-# Problem: Tree DS - Delete Value in BST
+# Problem: Tree DS - Delete Value in BST (inorder successor)
 # Author: Kiranraj R.
 # Data: 27/12/2025
 # ----------------------------------------------------------------
