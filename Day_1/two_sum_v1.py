@@ -3,8 +3,8 @@
 # Author: Kiranraj R.
 # Data: 22/12/2025
 # --------------------------------------------
-# Uses a hash map for O(1) lookups
-# Runs in O(n) time and O(n) space
+# Time Complexity	O(n)
+# Space Complexity	O(n)
 
 
 def two_sum_v1(arr, target):
