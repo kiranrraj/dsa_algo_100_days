@@ -42,3 +42,34 @@ def longest_non_repeating_subarray(string):
 
 print(longest_non_repeating_subarray("helo"))
 print(longest_non_repeating_subarray("hello"))
+
+
+# ## Longest Substring Without Repeating Characters
+
+# Start with two pointers at the beginning of the string:
+# left = start of current window
+# right = end of current window (moves forward one step at a time)
+# Use a dictionary (last_seen) to remember the last index where each character appeared.
+
+# Move right across the string, one character at a time:
+
+# Let ch be the character at position right.
+# If we have seen this character and its last seen position is inside the current window (>= left):
+# It means adding this character would create a duplicate inside the window.
+# So, move left to one position after the previous occurrence of this character.
+# This effectively removes the duplicate from the window.
+
+# Update last_seen[ch] to the current index (right).
+
+# This keeps track of the most recent occurrence of the character.
+
+# Calculate the length of the current window:
+# current_length = right - left + 1
+
+# If this window is longer than the longest found so far, update:
+# longest_length
+# longest_substring
+
+# Continue until right reaches the end of the string.
+
+# Return the length and substring of the longest window that never had duplicate characters inside it.
