@@ -1,4 +1,4 @@
-# Problem: 34
+# Problem: 36
 # Problem: Exponential of the number
 # Author: Kiranraj R.
 # Data: 31/12/2025
