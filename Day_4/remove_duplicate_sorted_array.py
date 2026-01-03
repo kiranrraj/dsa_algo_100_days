@@ -18,7 +18,7 @@ def remove_duplicate_sorted_array(arr1):
         if arr1[i] != arr1[i - 1]:
             arr1[index] = arr1[i]
             index += 1
-    return arr1
+    return arr1[:index]
 
 
-print(remove_duplicate_sorted_array([1, 2, 3, 3, 4, 4, 5, 5, 5]))
+print(remove_duplicate_sorted_array([1, 1, 2, 3, 4]))
