@@ -1,4 +1,4 @@
-# Problem: 46
+# Problem: 47
 # Problem: Backspace String Compare
 # Author: Kiranraj R.
 # Data: 04/01/2026
@@ -7,7 +7,7 @@
 # return true if they become equal after processing.
 # --------------------------------------------
 # Time Complexity: O(n + m)
-# Space Complexity: O(1)  # NOTE: optimized approach uses only pointers + counters (no extra stack)
+# Space Complexity: O(1)
 
 
 def backspaceCompare_v2(s: str, t: str) -> bool:
@@ -16,9 +16,8 @@ def backspaceCompare_v2(s: str, t: str) -> bool:
     # To track skip count
     skip_count_s, skip_count_t = 0, 0
 
-    #
-    # NOTE: This outer loop continues until BOTH strings are fully processed.
-    # We use OR because one string may still have pending characters/backspaces even if the other ended.
+    # We use OR because one string may still have pending
+    # characters/backspaces even if the other ended.
     while i >= 0 or j >= 0:
         while i >= 0:
 
@@ -51,17 +50,18 @@ def backspaceCompare_v2(s: str, t: str) -> bool:
             else:
                 break
 
-        # if we have pending char to be processed and
-        # current comparison fails, we know string is different.
-
+        # After skipping deleted characters, if both pointers are valid,
+        # the characters must match; if only one is valid, the strings differ.
         if i >= 0 and j >= 0:
             # Case A:
             # Both pointers are pointing to valid characters
             if s[i] != t[j]:
                 return False
+
         elif i >= 0 or j >= 0:
             # Case B:
-            # Exactly one pointer is valid -> mismatch in remaining valid characters
+            # One string still has a valid character
+            # The other string has no characters left
             return False
 
         # move both pointers left to continue searching for the next valid characters.
