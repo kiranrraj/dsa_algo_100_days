@@ -1,7 +1,7 @@
 # Problem: 56
 # Problem: Reverse First K Elements of a Queue
 # Author: Kiranraj R.
-# Data: 07/01/2026
+# Date: 07/01/2026
 # --------------------------------------------
 # Time Complexity	O(n)
 # Space Complexity	O(k)

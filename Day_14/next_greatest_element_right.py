@@ -1,7 +1,7 @@
 # Problem: 49
 # Problem: Next Greater Element to the Right
 # Author: Kiranraj R.
-# Data: 04/01/2026
+# Date: 04/01/2026
 # --------------------------------------------
 # For each element, find the next element to its right that is greater. If none, -1.
 # Time Complexity: O(n)

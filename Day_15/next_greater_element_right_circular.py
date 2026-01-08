@@ -1,7 +1,7 @@
 # Problem: 50
 # Problem: Next Greater Element to the Right (Circular)
 # Author: Kiranraj R.
-# Data: 05/01/2026
+# Date: 05/01/2026
 # --------------------------------------------
 # Given a circular integer array nums (meaning after the last element,
 # it wraps back to the first), return an array ans where ans[i] is

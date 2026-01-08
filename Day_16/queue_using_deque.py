@@ -1,7 +1,7 @@
 # Problem: 53
 # Problem: Queue using deque
 # Author: Kiranraj R.
-# Data: 06/01/2026
+# Date: 06/01/2026
 # --------------------------------------------
 # # O(1) enqueue (append) and O(1) dequeue (popleft).
 

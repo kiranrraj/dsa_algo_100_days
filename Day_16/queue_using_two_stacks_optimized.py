@@ -1,7 +1,7 @@
 # Problem: 55
 # Problem: Queue using two stacks
 # Author: Kiranraj R.
-# Data: 06/01/2026
+# Date: 06/01/2026
 # --------------------------------------------
 # Time Complexity: O(1)
 # Space Complexity: O(n)

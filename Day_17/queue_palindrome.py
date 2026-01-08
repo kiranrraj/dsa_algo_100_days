@@ -1,7 +1,7 @@
 # Problem: 58
 # Problem: Queue Palindrome
 # Author: Kiranraj R.
-# Data: 07/01/2026
+# Date: 07/01/2026
 # --------------------------------------------
 # Time Complexity	O(n)
 # Space Complexity	O(n)

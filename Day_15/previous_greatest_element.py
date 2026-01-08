@@ -1,7 +1,7 @@
 # Problem: 51
 # Problem: Previous Greater Element (to the Left)
 # Author: Kiranraj R.
-# Data: 05/01/2026
+# Date: 05/01/2026
 # --------------------------------------------
 # For each element, find the nearest greater element on its left. If none, -1.
 

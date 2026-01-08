@@ -1,7 +1,7 @@
 # Problem: 52
 # Problem: Queue using stack
 # Author: Kiranraj R.
-# Data: 06/01/2026
+# Date: 06/01/2026
 # --------------------------------------------
 # enqueue is O(1), but dequeue is O(n) due to pop(0).
 

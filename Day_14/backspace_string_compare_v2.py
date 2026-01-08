@@ -1,7 +1,7 @@
 # Problem: 46
 # Problem: Backspace String Compare
 # Author: Kiranraj R.
-# Data: 04/01/2026
+# Date: 04/01/2026
 # --------------------------------------------
 # Given two strings s and t, where # means “backspace” (delete the previous character if any),
 # return true if they become equal after processing.

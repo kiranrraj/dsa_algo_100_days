@@ -1,7 +1,7 @@
 # Problem: 48
 # Problem: Daily Temperatures
 # Author: Kiranraj R.
-# Data: 04/01/2026
+# Date: 04/01/2026
 # --------------------------------------------
 # Time Complexity: O(n)
 # Space Complexity: O(n)

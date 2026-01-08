@@ -1,7 +1,7 @@
 # Problem: 44
 # Problem: Baseball game
 # Author: Kiranraj R.
-# Data: 03/01/2026
+# Date: 03/01/2026
 # --------------------------------------------
 # Time Complexity: O(n)
 # Space Complexity: O(n)
