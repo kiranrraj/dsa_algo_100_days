@@ -1,7 +1,7 @@
 # Problem: 30
 # Problem: Longest substring without repeating characters (Variable window sliding problem)
 # Author: Kiranraj R.
-# Data: 29/12/2025
+# Date: 29/12/2025
 # --------------------------------------------
 # Time complexity: O(n)
 # Space complexity: O(n)

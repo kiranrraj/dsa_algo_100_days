@@ -1,7 +1,7 @@
 # Problem: 31
 # Problem: Longest substring with at most K distinct characters
 # Author: Kiranraj R.
-# Data: 30/12/2025
+# Date: 30/12/2025
 # --------------------------------------------
 # Time complexity: O(n)
 # Space complexity: O(n)

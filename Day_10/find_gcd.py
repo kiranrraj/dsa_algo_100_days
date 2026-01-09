@@ -1,7 +1,7 @@
 # Problem: 35
 # Problem: Find greatest common divisor
 # Author: Kiranraj R.
-# Data: 31/12/2025
+# Date: 31/12/2025
 # --------------------------------------------
 # Time Complexity   : O(log(min(num1, num2)))
 # Space Complexity  : O(log(min(num1, num2)))

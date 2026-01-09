@@ -1,7 +1,7 @@
 # Problem: 25
 # Problem: Move all zeros in array to the end
 # Author: Kiranraj R.
-# Data: 28/12/2025
+# Date: 28/12/2025
 # ----------------------------------------------------------------
 def move_zeros(arr):
     pos = 0

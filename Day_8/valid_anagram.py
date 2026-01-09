@@ -1,7 +1,7 @@
 # Problem: 29
 # Problem: Check Anagram or not
 # Author: Kiranraj R.
-# Data: 29/12/2025
+# Date: 29/12/2025
 # ----------------------------------------------------------------
 # Time Complexity:   O(n)
 # Space Complexity:  O(1)

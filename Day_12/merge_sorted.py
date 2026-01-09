@@ -1,7 +1,7 @@
 # Problem: 41
 # Problem: Merge sorted array
 # Author: Kiranraj R.
-# Data: 02/01/2026
+# Date: 02/01/2026
 # --------------------------------------------
 # Time Complexity	O(n+m)
 # Space Complexity	O(n+m)

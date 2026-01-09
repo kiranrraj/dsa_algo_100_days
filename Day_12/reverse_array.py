@@ -1,7 +1,7 @@
 # Problem: 43
 # Problem: Reverse Method
 # Author: Kiranraj R.
-# Data: 02/01/2026
+# Date: 02/01/2026
 # --------------------------------------------
 # Time Complexity: O(n)
 # Space Complexity: O(1)

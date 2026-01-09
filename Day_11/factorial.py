@@ -1,7 +1,7 @@
 # Problem: 38
 # Problem: Factorial of a number
 # Author: Kiranraj R.
-# Data: 01/01/2026
+# Date: 01/01/2026
 # --------------------------------------------
 # Time Complexity	O(n)
 # Space Complexity	O(n)

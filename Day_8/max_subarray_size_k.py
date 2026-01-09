@@ -1,7 +1,7 @@
 # Problem: 28
 # Problem: Maximum Sum Subarray of Size K
 # Author: Kiranraj R.
-# Data: 29/12/2025
+# Date: 29/12/2025
 # --------------------------------------------
 # Time Complexity	O(n)
 # Space Complexity	O(1)

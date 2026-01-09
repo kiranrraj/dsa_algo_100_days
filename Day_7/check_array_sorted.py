@@ -1,7 +1,7 @@
 # Problem: 23
 # Problem: Check array is sorted or not
 # Author: Kiranraj R.
-# Data: 28/12/2025
+# Date: 28/12/2025
 # ----------------------------------------------------------------
 # Time complexity: O(n)
 # Space complexity: O(1)

@@ -1,7 +1,7 @@
 # Problem: 42
 # Problem: The Two Sum II - Input Array Is Sorted
 # Author: Kiranraj R.
-# Data: 02/01/2026
+# Date: 02/01/2026
 # --------------------------------------------
 # Time Complexity: O(n)
 # Space Complexity: O(1)

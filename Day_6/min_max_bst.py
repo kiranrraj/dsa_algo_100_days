@@ -1,7 +1,7 @@
 # Problem: 17
 # Problem: Tree DS - Min, Max Value in BST
 # Author: Kiranraj R.
-# Data: 27/12/2025
+# Date: 27/12/2025
 # ----------------------------------------------------------------
 # In a BST, the lowest value is always at the deepest left node and
 # the highest value is always at the deepest right node.

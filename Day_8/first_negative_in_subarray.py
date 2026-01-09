@@ -1,7 +1,7 @@
 # Problem: 27
 # Problem: Find the first negative number in the subarray (Brute Force)
 # Author: Kiranraj R.
-# Data: 29/12/2025
+# Date: 29/12/2025
 # --------------------------------------------
 
 

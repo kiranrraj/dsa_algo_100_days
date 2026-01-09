@@ -1,7 +1,7 @@
 # Problem: 19
 # Problem: Tree DS - Insert Value in BST
 # Author: Kiranraj R.
-# Data: 27/12/2025
+# Date: 27/12/2025
 # ----------------------------------------------------------------
 # Time Complexity: O(h)
 # Space Complexity: O(h)

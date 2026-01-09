@@ -1,7 +1,7 @@
 # Problem: 32
 # Problem: Best Time to Buy and Sell Stock
 # Author: Kiranraj R.
-# Data: 30/12/2025
+# Date: 30/12/2025
 # --------------------------------------------
 # Time complexity: O(n)
 # Space complexity: O(1)

@@ -1,7 +1,7 @@
 # Problem: 24
 # Problem: Check second largest number in array
 # Author: Kiranraj R.
-# Data: 28/12/2025
+# Date: 28/12/2025
 # ----------------------------------------------------------------
 # Time Complexity: O(n)
 # Space Complexity: O(1)

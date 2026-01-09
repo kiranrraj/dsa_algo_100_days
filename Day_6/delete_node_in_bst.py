@@ -1,7 +1,7 @@
 # Problem: 20
 # Problem: Tree DS - Delete Value in BST (inorder successor)
 # Author: Kiranraj R.
-# Data: 27/12/2025
+# Date: 27/12/2025
 # ----------------------------------------------------------------
 # FUNCTION delete_node(root, key):
 #     IF root is NULL:

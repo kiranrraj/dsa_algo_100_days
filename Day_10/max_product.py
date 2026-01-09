@@ -1,7 +1,7 @@
 # Problem: 33
 # Problem: Highest product
 # Author: Kiranraj R.
-# Data: 31/12/2025
+# Date: 31/12/2025
 # --------------------------------------------
 # Time Complexity	O(n)
 # Space Complexity	O(1)

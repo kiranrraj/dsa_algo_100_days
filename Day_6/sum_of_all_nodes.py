@@ -1,7 +1,7 @@
 # Problem: 16
 # Problem: Tree DS - Sum of all nodes
 # Author: Kiranraj R.
-# Data: 27/12/2025
+# Date: 27/12/2025
 # --------------------------------------------
 # Time Complexity:   O(n)
 # Space Complexity:  O(h)

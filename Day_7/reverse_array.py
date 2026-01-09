@@ -1,7 +1,7 @@
 # Problem: 22
 # Problem: Reverse an array
 # Author: Kiranraj R.
-# Data: 28/12/2025
+# Date: 28/12/2025
 # ----------------------------------------------------------------
 # Time Complexity: O(n)
 # Space Complexity: O(1)

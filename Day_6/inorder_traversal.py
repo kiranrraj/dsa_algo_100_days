@@ -1,7 +1,7 @@
 # Problem: 11
 # Problem: Tree DS - Inorder traversal
 # Author: Kiranraj R.
-# Data: 27/12/2025
+# Date: 27/12/2025
 # --------------------------------------------
 # Time	O(n)	Each node is visited once
 # Space O(h)	Height of tree due to recursion stack
