@@ -1,7 +1,7 @@
 # Problem: 2
 # Problem: Two sum version that return indices
 # Author: Kiranraj R.
-# Data: 22/12/2025
+# Date: 22/12/2025
 # --------------------------------------------
 # Uses a hash map for O(1) lookups
 # Runs in O(n) time and O(n) space

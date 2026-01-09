@@ -1,7 +1,7 @@
 # Problem: 8
 # Problem: Remove duplicate elements from sorted array
 # Author: Kiranraj R.
-# Data: 25/12/2025
+# Date: 25/12/2025
 # --------------------------------------------
 # You are given an integer array nums sorted in non-decreasing order. Your task is
 # to modify the array in-place such that only the first occurrence of each value

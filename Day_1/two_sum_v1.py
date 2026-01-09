@@ -1,7 +1,7 @@
 # Problem: 1
 # Problem: Two sum version that return value
 # Author: Kiranraj R.
-# Data: 22/12/2025
+# Date: 22/12/2025
 # --------------------------------------------
 # Time Complexity	O(n)
 # Space Complexity	O(n)

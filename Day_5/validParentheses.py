@@ -1,7 +1,7 @@
 # Problem: 10
 # Problem: Valid Parentheses
 # Author: Kiranraj R.
-# Data: 26/12/2025
+# Date: 26/12/2025
 # --------------------------------------------
 # Given a string s containing just the characters '(', ')', '{', '}', '[' and ']',
 # determine if the input string is valid.

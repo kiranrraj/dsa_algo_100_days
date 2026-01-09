@@ -1,7 +1,7 @@
 # Problem: 3
 # Problem: Reverse a string
 # Author: Kiranraj R.
-# Data: 23/12/2025
+# Date: 23/12/2025
 # --------------------------------------------
 # Time complexity: O(n)
 # Space complexity: O(n)

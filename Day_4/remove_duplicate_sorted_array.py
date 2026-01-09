@@ -1,7 +1,7 @@
 # Problem: 7
 # Problem: Remove duplicate elements from sorted array
 # Author: Kiranraj R.
-# Data: 25/12/2025
+# Date: 25/12/2025
 # --------------------------------------------
 # Given an integer array nums sorted in non-decreasing order, remove the duplicate
 # values in-place such that each unique element appears only once. The relative order

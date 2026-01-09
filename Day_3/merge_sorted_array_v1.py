@@ -1,7 +1,7 @@
 # Problem: 5
 # Problem: Merge Sorted Array (two-pointer technique)
 # Author: Kiranraj R.
-# Data: 24/12/2025
+# Date: 24/12/2025
 # --------------------------------------------
 # Time Complexity: O(n + m) (each element from both arrays is visited once)
 # Space Complexity: O(n + m) (merged array)

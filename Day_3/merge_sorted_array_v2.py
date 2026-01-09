@@ -1,7 +1,7 @@
 # Problem: 6
 # Problem: Merge Sorted Array where one array have m+n length
 # Author: Kiranraj R.
-# Data: 24/12/2025
+# Date: 24/12/2025
 # --------------------------------------------
 # Question
 # You are given two sorted integer arrays nums1 and nums2, sorted in non-decreasing order.
