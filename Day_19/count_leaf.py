@@ -20,7 +20,7 @@ class TreeNode:
         self.right = None
 
 
-def countLeafNodes(root):
+def count_leaf_nodes(root):
     if root is None:
         return 0
 
@@ -29,7 +29,7 @@ def countLeafNodes(root):
         return 1
 
     # Otherwise, count leaves in left and right subtrees
-    return countLeafNodes(root.left) + countLeafNodes(root.right)
+    return count_leaf_nodes(root.left) + count_leaf_nodes(root.right)
 
 
 root = TreeNode(1)
@@ -37,4 +37,4 @@ root.left = TreeNode(2)
 root.right = TreeNode(3)
 root.right.left = TreeNode(4)
 
-print(countLeafNodes(root))
+print(count_leaf_nodes(root))

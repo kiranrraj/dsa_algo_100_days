@@ -29,7 +29,7 @@ def height(node):
 
 
 # Top-down approach to check if tree is balanced
-def isBalanced(root):
+def is_balanced(root):
     if root is None:
         return True
 
@@ -42,7 +42,7 @@ def isBalanced(root):
         return False
 
     # check subtrees
-    return isBalanced(root.left) and isBalanced(root.right)
+    return is_balanced(root.left) and is_balanced(root.right)
 
 
 # Balanced tree
@@ -53,7 +53,7 @@ bt1.left.left = TreeNode(4)
 bt1.left.right = TreeNode(5)
 bt1.right.left = TreeNode(6)
 bt1.right.right = TreeNode(7)
-print(isBalanced(bt1))
+print(is_balanced(bt1))
 
 
 # Unbalanced tree
@@ -61,4 +61,4 @@ bt2 = TreeNode(1)
 bt2.left = TreeNode(2)
 bt2.left.left = TreeNode(3)
 bt2.left.left.left = TreeNode(4)
-print(isBalanced(bt2))
+print(is_balanced(bt2))

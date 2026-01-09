@@ -2,8 +2,7 @@
 # Problem: Check two binary trees are identical
 # Author: Kiranraj R.
 # Date: 09/01/2026
-# Problem: Check if Two Binary Trees are Identical
-#
+# ---------------------------------------------
 # Two binary trees are identical if:
 # 1. Both are empty, OR
 # 2. Root values are equal AND
@@ -21,7 +20,7 @@ class TreeNode:
         self.right = None
 
 
-def areIdentical(root1, root2):
+def are_identical(root1, root2):
     # If both nodes are None, trees match here
     if root1 is None and root2 is None:
         return True
@@ -33,8 +32,8 @@ def areIdentical(root1, root2):
     # Check current node value and recurse on children
     return (
         root1.val == root2.val
-        and areIdentical(root1.left, root2.left)
-        and areIdentical(root1.right, root2.right)
+        and are_identical(root1.left, root2.left)
+        and are_identical(root1.right, root2.right)
     )
 
 
@@ -48,5 +47,5 @@ t3 = TreeNode(1)
 t3.left = TreeNode(2)
 t3.right = TreeNode(4)
 
-print(areIdentical(t1, t2))
-print(areIdentical(t1, t3))
+print(are_identical(t1, t2))
+print(are_identical(t1, t3))
