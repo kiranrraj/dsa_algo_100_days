@@ -30,6 +30,9 @@ class Node:
 
 
 def remove_duplicates(head):
+    if not head:
+        return head
+
     current = head
     while current.next != None:
         if current.value == current.next.value:
